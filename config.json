@@ -6,6 +6,33 @@
     "locale": "tr-TR",
     "notifications": true
   },
+  "limits": {
+    "likes_per_hour": 50,
+    "likes_per_day": 300,
+    "follows_per_hour": 30,
+    "follows_per_day": 150,
+    "comments_per_hour": 20,
+    "comments_per_day": 100,
+    "dms_per_hour": 15,
+    "dms_per_day": 75,
+    "unfollows_per_hour": 30,
+    "unfollows_per_day": 150,
+    "stories_per_hour": 30,
+    "stories_per_day": 200
+  },
+  "features": {
+    "likes_enabled": true,
+    "follows_enabled": true,
+    "comments_enabled": true,
+    "dms_enabled": true,
+    "unfollows_enabled": true,
+    "story_view_enabled": true,
+    "scheduling_enabled": true,
+    "reports_enabled": true,
+    "ai_comments_enabled": true,
+    "ai_dms_enabled": true,
+    "auto_reply_enabled": true
+  },
   "blocked": [],
   "message": ""
 }
