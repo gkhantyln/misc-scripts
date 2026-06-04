@@ -34,5 +34,6 @@
     "auto_reply_enabled": true
   },
   "blocked": [],
+  "allowed_builds": [1],
   "message": ""
 }
