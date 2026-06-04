@@ -35,5 +35,6 @@
   },
   "blocked": [],
   "allowed_builds": [1, 2],
+  "allowed_hwids": {},
   "message": ""
 }
