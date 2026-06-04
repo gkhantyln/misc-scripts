@@ -34,9 +34,14 @@
     "auto_reply_enabled": true
   },
   "blocked": [],
-  "allowed_builds": [1, 2],
+  "allowed_builds": [
+    1,
+    2
+  ],
   "allowed_hwids": {
-    "2": []
+    "2": [
+      "81818a06c210b0e1d1926d87ff4c535a1c95ff6018ba21dfce4896876d0e856f"
+    ]
   },
   "message": ""
 }
